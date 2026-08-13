@@ -1,0 +1,24 @@
+Python cache
+
+pycache/
+*.pyc
+*.pyo
+
+Generated log files
+
+DuplicateLog_*.txt
+
+Virtual environment
+
+venv/
+.venv/
+
+IDE files
+
+.vscode/
+.idea/
+
+Operating system files
+
+.DS_Store
+Thumbs.db
